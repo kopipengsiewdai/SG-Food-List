@@ -6,6 +6,7 @@ Signature Dish: Prawn Mee
 Order: Pork Ribs and Prawn Mee, Dry, w/ Chilli, Mee Pok  
 Price: $6.50  
 Remarks:  Very fresh prawn and pork ribs, flavourful soup  
+Date: 31 Oct 2025
 
 Rating: ★★★★☆
 
